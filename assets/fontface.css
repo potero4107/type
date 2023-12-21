@@ -1,0 +1,40 @@
+/* * {
+    border: 1px solid salmon;
+} * */
+
+ .everything_container {
+    border: 3px solid black;
+} 
+
+.button_container {
+    border: 3px solid black;
+}
+
+/* .input[type="range"] {
+  
+    -webkit-appearance: none;
+    appearance: none;
+
+    width: 100%;
+    cursor: pointer;
+    outline: none;
+  }
+
+  .slider {
+  
+    -webkit-appearance: none;
+    appearance: none;
+    border: 3px black;
+
+    width: 100%;
+    cursor: circle;
+    outline: none;
+    background-color: rgb(209 213 219);
+    border-color: black 3px;
+  } */
+
+
+  /* #slider3 {
+   cositas individuales para anclar cada slider!!!!
+  } */
+
